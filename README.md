@@ -13,3 +13,13 @@
 | 可乐鸡翅/鸡腿  | ★★★★★ | Wen  | 2     |               |
 | 白灼生菜       | ★★★★★ | Yan  | 1     |               |
 | 西兰花炒肉     | ★★★★★ | Yan  | 1     |               |
+
+## Records
+### Records By Timeline
+> 2023-11-03 20:00
+
+![](./images/sltdf-make-11-03.jpg)
+![](./images/sltdf-11-03.jpg)
+### Records By Recipe
+#### 酸辣土豆粉
+![](./images/sltdf-11-03.jpg)

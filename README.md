@@ -1,6 +1,7 @@
 # recipe-of-yan
 ## 小妍食谱
 > From Time: 2023-11-03 19:20 written
+
 | Recipe         | Stars | From | Times | Records       |
 | -------------- | ----- | ---- | ----- | ------------- |
 | 酸辣土豆粉     | ★★★★☆ | Yan  | 2     | 23-11-3 19:30 |

@@ -13,13 +13,24 @@
 | 可乐鸡翅/鸡腿  | ★★★★☆ | Wen  | 2     |               |
 | 白灼生菜       | ★★★★★ | Yan  | 1     |               |
 | 西兰花炒肉     | ★★★★★ | Yan  | 1     |               |
+| 蜜汁方便面     | ★★★★★ | Yan  | 1     | 23-11-5 19:00 |
 
 ## Records
 ### Records By Timeline
 > 2023-11-03 20:00
 
-![](./images/sltdf-make-11-03.jpg)
-![](./images/sltdf-11-03.jpg)
+![](./images/sltdf/sltdf-make-11-03.jpg)
+![](./images/sltdf/sltdf-11-03.jpg)
+
+> 2023-11-05 19:00
+
+![](images/mzfbm/mzfbm-make-11-05.jpg)
+![](images/mzfbm/mzfbm-11-05-0.jpg)
+![](images/mzfbm/mzfbm-11-05-1.jpg)
+
 ### Records By Recipe
 #### 酸辣土豆粉
-![](./images/sltdf-11-03.jpg)
+![](./images/sltdf/sltdf-11-03.jpg)
+
+#### 蜜汁方便面
+![](images/mzfbm/mzfbm-11-05-0.jpg)

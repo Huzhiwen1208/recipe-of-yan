@@ -14,6 +14,7 @@
 | 白灼生菜       | ★★★★★ | Yan  | 1     |               |
 | 西兰花炒肉     | ★★★★★ | Yan  | 1     |               |
 | 蜜汁方便面     | ★★★★★ | Yan  | 1     | 23-11-5 19:00 |
+| 炸鲜奶         | ★★★★★ | Yan  | 1     | 23-11-8 23:00 |
 
 ## Records
 ### Records By Timeline
@@ -28,9 +29,17 @@
 ![](images/mzfbm/mzfbm-11-05-0.jpg)
 ![](images/mzfbm/mzfbm-11-05-1.jpg)
 
+> 2023-11-08 23:20
+
+![](images/zxn/zxn-11-08-01.jpg)
+![](images/zxn/zxn-11-08-02.jpg)
+
 ### Records By Recipe
 #### 酸辣土豆粉
 ![](./images/sltdf/sltdf-11-03.jpg)
 
 #### 蜜汁方便面
 ![](images/mzfbm/mzfbm-11-05-0.jpg)
+
+#### 炸鲜奶
+![](images/zxn/zxn-11-08-01.jpg)

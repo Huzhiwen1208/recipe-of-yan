@@ -5,7 +5,7 @@
 | Recipe         | Stars | From | Times | Records       |
 | -------------- | ----- | ---- | ----- | ------------- |
 | 酸辣土豆粉     | ★★★★★ | Yan  | 2     | 23-11-3 19:30 |
-| 番茄鸡蛋打卤面 | ★★★★★ | Yan  | 2     |               |
+| 番茄鸡蛋打卤面 | ★★★★★ | Yan  | 3     | 23-11-9 22:00 |
 | 肉末打卤面     | ★★★★★ | Yan  | 2     |               |
 | 肉末茄子       | ★★★★★ | Yan  | 1     |               |
 | 韩式芝士玉米   | ★★★★★ | Yan  | 1     |               |
@@ -34,6 +34,11 @@
 ![](images/zxn/zxn-11-08-01.jpg)
 ![](images/zxn/zxn-11-08-02.jpg)
 
+> 2023-11-09 22:00
+
+![](images/fqjddlm/fqjddlm-11-09-01.jpg)
+![](images/fqjddlm/fqjddlm-11-09-02.jpg)
+
 ### Records By Recipe
 #### 酸辣土豆粉
 ![](./images/sltdf/sltdf-11-03.jpg)
@@ -43,3 +48,6 @@
 
 #### 炸鲜奶
 ![](images/zxn/zxn-11-08-01.jpg)
+
+#### 番茄鸡蛋打卤面
+![](images/fqjddlm/fqjddlm-11-09-01.jpg)
